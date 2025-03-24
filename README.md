@@ -10,9 +10,9 @@
 - 💡 Passionate about solving real-world problems and creating impactful solutions.  
 
 ### 📌 Latest Projects
-🔹 **[The FireFighter Problem Algorithms](#https://github.com/The-Firefighters)** - Implementation and optimization of the FireFighter Problem algorithms in computer science.   
-🔹 **[Daily Meal Planner](#https://github.com/Almog-David/Daily_Meal_Planner)** - A Full-stack app for creating meal menus and personalizing the menus by an administrator.  
-🔹 **[Socket Chatroom](#https://github.com/Almog-David/Socket_Chatroom)** - Chat application based on python with implementation of TCP and UDP protocols. 
+🔹 **[The FireFighter Problem Algorithms](https://github.com/The-Firefighters)** - Implementation and optimization of the FireFighter Problem algorithms in computer science.   
+🔹 **[Daily Meal Planner](https://github.com/Almog-David/Daily_Meal_Planner)** - A Full-stack app for creating meal menus and personalizing the menus by an administrator.  
+🔹 **[Socket Chatroom](https://github.com/Almog-David/Socket_Chatroom)** - Chat application based on python with implementation of TCP and UDP protocols. 
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
